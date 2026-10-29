@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/ArrayLab/ArrayLab.csproj" />
+  <Project Path="tests/ArrayLab.Tests/ArrayLab.Tests.csproj" />
+</Solution>
